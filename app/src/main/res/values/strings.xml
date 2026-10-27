@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">悬浮时钟</string>
+    <string name="float_clock_title">悬浮时钟</string>
+    <string name="float_clock_channel">悬浮时钟服务</string>
+    <string name="float_clock_running">悬浮时钟运行中</string>
+    <string name="status_need_permission">需要"显示在其他应用上层"权限，点击开始后前往授权</string>
+    <string name="status_permission_ok">权限已就绪，点击开始悬浮</string>
+    <string name="status_running">时钟悬浮中，可拖动到任意位置</string>
+    <string name="start_float_clock">开始悬浮</string>
+    <string name="stop_float_clock">停止悬浮</string>
+    <string name="stop">停止</string>
+    <string name="hint_drag_tap">拖动移动位置 · 轻点悬浮窗关闭</string>
+</resources>
